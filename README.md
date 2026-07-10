@@ -1,0 +1,3 @@
+Proyecto: Radar Suno (RC)
+
+Sistema avanzado de geolocalización y monitoreo táctico diseñado para operaciones de búsqueda y rescate en entornos de baja conectividad. La aplicación integra protocolos de comunicación Bluetooth de baja energía (BLE) y algoritmos de triangulación para la detección, seguimiento y fusión de objetivos en tiempo real. Desarrollado con React Native, el sistema ofrece una interfaz de usuario intuitiva para la gestión de dispositivos, visualización de mapas de calor y reporte de incidentes, garantizando alta precisión y respuesta rápida en situaciones críticas.
